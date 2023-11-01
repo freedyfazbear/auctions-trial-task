@@ -1,0 +1,4 @@
+name: auction-plugin
+main: cc.freedyfazbear.auctions.AuctionPlugin
+version: final
+api-version: 1.16
